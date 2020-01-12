@@ -2,7 +2,7 @@
     "landing": {
         "firstName": "Luis",
             "lastName": "Brito",
-                "phoneNumber": "+54",
+                "phoneNumber": "",
                     "bio": "I basically work hard and get things done. I’m passionate about learning and that’s why I found my place in the software developing world, since it allows me to learn new things everyday, to use my problem solving and creative skills. Welcome to my profile.",
                         "email": "britobluis@gmail.com",
                             "linkedin": "https://linkedin.com/in/britobluis",
@@ -34,7 +34,7 @@
         "education": [{
             "university": "National Technological University of Argentina",
             "degree": "Degree in Computer Programming",
-            "gpa": "3.7",
+            "gpa": "GPA 3.7",
             "fromDate": "2017",
             "toDate": "2019"
         }
@@ -65,7 +65,7 @@
             }
             ],
                 "interests": {
-        "paragraphOne": "Apart from being a software developer, I enjoy most of my time being outdoors. In the winter, I like to go ski. During the warmer months here in Mendoza, I enjoy mountain biking, and kayaking.",
+        "paragraphOne": "Apart from being a software developer, I enjoy most of my time being outdoors. In the winter, I like to go ski. During the warmer months I enjoy mountain biking, and kayaking.",
             "paragraphTwo": "When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world."
     },
     "awards": [{
